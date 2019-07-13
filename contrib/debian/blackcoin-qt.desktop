@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Levitate
+Comment=Levitate P2P Cryptocurrency
+Comment[fr]=Levitate, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Levitate, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/levitate-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/levitate;
+Categories=Office;
